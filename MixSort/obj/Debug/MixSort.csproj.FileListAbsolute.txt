@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\MixSort\MixSort\bin\Debug\MixSort.exe.config
+C:\Users\kaviya\source\repos\MixSort\MixSort\bin\Debug\MixSort.exe
+C:\Users\kaviya\source\repos\MixSort\MixSort\bin\Debug\MixSort.pdb
+C:\Users\kaviya\source\repos\MixSort\MixSort\obj\Debug\MixSort.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\MixSort\MixSort\obj\Debug\MixSort.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\MixSort\MixSort\obj\Debug\MixSort.exe
+C:\Users\kaviya\source\repos\MixSort\MixSort\obj\Debug\MixSort.pdb
